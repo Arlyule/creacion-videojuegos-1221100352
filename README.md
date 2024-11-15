@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbvNrDytMcJSG3KuVe1mINYUqRMXm_bX4aqyLuIBrGuJMGzYTZaCp_1QoPTUBhbn9nJ-E&usqp=CAU" alt="Logo" width=1200 height=300>
+    <img src="https://wallpapers.com/images/high/anime-girl-room-pixel-art-a2j6bg3z27xq7oiy.webp" alt="Logo" width=1200 height=450>
 
   <p align="center">
     Short description
@@ -38,7 +38,7 @@
   * > [Package](/Challenge/Challenge1/Unidad1Prototipo1.unitypackage)
 #### Prototipo 2
   * > [Codigo](/Challenge/Challenge2/fuente)
-  * > [Package](/Challenge/Challenge/Unidad1Prototipo1.unitypackage)
+  * > [Package](/Challenge/Challenge2/Unidad2_Prototipo2.unitypackage)
   * > [Prueba](/Challenge/Challenge2/Challenge2.pdf)
 
 ### Lecciones
@@ -49,23 +49,23 @@
 #### Lección 2
   * > [Codigo](/Lesson/Lesson2/fuente)
   * > [Package](/Lesson/Lesson2/Lesson2_2D.unitypackage)
-  * > [Prueba](/Lesson/Lesson2/Lesson2_2d.pdf)
+  * > [Prueba](/Lesson/Lesson2/Lesson2_2D.pdf)
 #### Lección 3
   * > [Codigo](/Lesson/Lesson3/fuente)
   * > [Package](/Lesson/Lesson3/Lesson3_2D.unitypackage)
-  * > [Prueba](/Lesson/Lesson3/Lesson3_2d.pdf)
+  * > [Prueba](/Lesson/Lesson3/Lesson3_2D.pdf)
 #### Lección 4
   * > [Codigo](/Lesson/Lesson4/fuente)
   * > [Package](/Lesson/Lesson4/Lesson4_2D.unitypackage)
-  * > [Prueba](/Lesson/Lesson4/Lesson4_2d.pdf)
+  * > [Prueba](/Lesson/Lesson4/Lesson4_2D.pdf)
 #### Lección 5
   * > [Codigo](/Lesson/Lesson5/fuente)
   * > [Package](/Lesson/Lesson5/Lesson5_2D.unitypackage)
-  * > [Prueba](/Lesson/Lesson5/Lesson5_2d.pdf)
+  * > [Prueba](/Lesson/Lesson5/Lesson5_2D.pdf)
 #### Lección 6
   * > [Codigo](/Lesson/Lesson6/fuente)
   * > [Package](/Lesson/Lesson6/Lesson6_2D.unitypackage)
-  * > [Prueba](/Lesson/Lesson6/Lesson6_2d.pdf)
+  * > [Prueba](/Lesson/Lesson6/Lesson6_2D.pdf)
 
 ### Desafíos
 #### Desafio 1
