@@ -33,47 +33,47 @@
 ## Código Fuente
 
 ### Prototipos
-* [Prototipo 1](#prototipo1)
-  * > [Codigo](/prototipo1)
+#### Prototipo 1
+  * > [Codigo](/Challenge/Challenge1/fuente)
   * > [Package](/Challenge/Challenge1/Unidad1Prototipo1.unitypackage)
-* [Prototipo 2](#prototipo2)
-  * > [Codigo](/prototipo2)
-  * > [Package](/packages/lecciones/leccion2/ejercicio_carlos_mata.unitypackage)
-  * > [Prueba](/docs/lecciones/leccion2/Leccion2_Carlos_Mata.pdf)
+#### Prototipo 2
+  * > [Codigo](/Challenge/Challenge2/fuente)
+  * > [Package](/Challenge/Challenge/Unidad1Prototipo1.unitypackage)
+  * > [Prueba](/Challenge/Challenge2/Challenge2.pdf)
 
 ### Lecciones
-* [Lección 1](#leccion1)
-  * > [Codigo](/leccion1)
-  * > [Package](/packages/lecciones/leccion1/ejercicio1.unitypackage)
-  * > [Prueba](/docs/lecciones/leccion1/Ejercicio1_Carlos_Mata.pdf)
-* [Lección 2](#leccion2)
-  * > [Codigo](/leccion2)
-  * > [Package](/packages/lecciones/leccion2/ejercicio2.unitypackage)
-  * > [Prueba](/docs/lecciones/leccion2/Ejercicio2_Carlos_Mata.pdf)
-* [Lección 3](#leccion3)
-  * > [Codigo](/leccion3)
-  * > [Package](/packages/lecciones/leccion3/ejercicio3.unitypackage)
-  * > [Prueba](/docs/lecciones/leccion3/Ejercicio3_Carlos_Mata.pdf)
-* [Lección 4](#leccion4)
-  * > [Codigo](/leccion4)
-  * > [Package](/packages/lecciones/leccion4/ejercicio4.unitypackage)
-  * > [Prueba](/docs/lecciones/leccion4/Ejercicio4_Carlos_Mata.pdf)
-* [Lección 5](#leccion5)
-  * > [Codigo](/leccion5)
-  * > [Package](/packages/lecciones/leccion5/ejercicio5.unitypackage)
-  * > [Prueba](/docs/lecciones/leccion5/Ejercicio5_Carlos_Mata.pdf)
-* [Lección 6](#leccion6)
-  * > [Codigo](/leccion6)
-  * > [Package](/packages/lecciones/leccion6/ejercicio6.unitypackage)
-  * > [Prueba](/docs/lecciones/leccion6/Ejercicio6_Carlos_Mata.pdf)
+#### Lección 1
+  * > [Codigo](/Lesson/Lesson1/fuente)
+  * > [Package](/Lesson/Lesson1/Lesson1_2D.unitypackage)
+  * > [Prueba](/Lesson/Lesson1/Lesson12d.pdf)
+#### Lección 2
+  * > [Codigo](/Lesson/Lesson2/fuente)
+  * > [Package](/Lesson/Lesson2/Lesson2_2D.unitypackage)
+  * > [Prueba](/Lesson/Lesson2/Lesson2_2d.pdf)
+#### Lección 3
+  * > [Codigo](/Lesson/Lesson3/fuente)
+  * > [Package](/Lesson/Lesson3/Lesson3_2D.unitypackage)
+  * > [Prueba](/Lesson/Lesson3/Lesson3_2d.pdf)
+#### Lección 4
+  * > [Codigo](/Lesson/Lesson4/fuente)
+  * > [Package](/Lesson/Lesson4/Lesson4_2D.unitypackage)
+  * > [Prueba](/Lesson/Lesson4/Lesson4_2d.pdf)
+#### Lección 5
+  * > [Codigo](/Lesson/Lesson5/fuente)
+  * > [Package](/Lesson/Lesson5/Lesson5_2D.unitypackage)
+  * > [Prueba](/Lesson/Lesson5/Lesson5_2d.pdf)
+#### Lección 6
+  * > [Codigo](/Lesson/Lesson6/fuente)
+  * > [Package](/Lesson/Lesson6/Lesson6_2D.unitypackage)
+  * > [Prueba](/Lesson/Lesson6/Lesson6_2d.pdf)
 
 ### Desafíos
-* [Desafio 1](#desafio1)
-  * > [Package](/packages/desafios/desafio1/desafio1_carlos_mata.unitypackage)
-* [Desafio 2](#desafio2)
-  * > [Package](/packages/desafios/desafio2/desafio2_carlos_mata.unitypackage)
-* [Desafio 3](#desafio3)
-  * > [Package](/packages/desafios/desafio3/desafio3_carlos_mata.unitypackage)
+#### Desafio 1
+  * > [Package](/Desafios/Desafio1/Desafio1.unitypackage)
+#### Desafio 2
+  * > [Package](/Desafios/Desafio2/Desafio2.unitypackage)
+#### Desafio 3
+  * > [Package](/Desafios/Desafio3/Desafio3.unitypackage)
 
 ## Planificación
 
